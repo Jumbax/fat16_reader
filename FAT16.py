@@ -46,4 +46,4 @@ class FAT16:
                 print(value, name)
 
 
-test = FAT16()
+fat16 = FAT16()
